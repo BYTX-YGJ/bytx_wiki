@@ -35,3 +35,11 @@
 途径二
 
 ![image-20251231141425809](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231141425809.png)
+
+MTY4ODg1NzM4NzY1MzgwOQ_108072_yA2VR82Gl8QrXIEe_1765166087
+
+![image-20251231142105484](C:\Users\134657\AppData\Roaming\Typora\typora-user-images\image-20251231142105484.png)
+
+![image-20251231144208103](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231144208103.png)
+
+![image-20251231144502394](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231144502394.png)
