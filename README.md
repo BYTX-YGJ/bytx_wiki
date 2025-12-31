@@ -28,10 +28,7 @@
 
 人事：修改对应员工档案钉钉手机号
 
-
+![image-20251231163909035](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231163909035.png)
 
 途径二
 
-![image-20251231150731633](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231150731633.png)
-
-![image-20251231151250822](https://gitee.com/bytxrl/wiki-images/raw/master/202512311514018)
