@@ -33,3 +33,5 @@
 ![image-20251231101427449](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231101427449.png)
 
 途径二
+
+![image-20251231141425809](https://gitee.com/bytxrl/wiki-images/raw/master/image-20251231141425809.png)
