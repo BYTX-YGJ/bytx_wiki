@@ -20,7 +20,11 @@
 
 ![imge](https://gitee.com/bytxrl/wiki-images/raw/master/image-20260407102842384.png)
 
-2、如果信息一致的，那么查看[薪酬管理/考勤管理/出勤记录/不同钉钉号维护]([出勤记录](http://121.28.192.238:8562/salary/attend/attendancerecordrest))对应月份是否有多条记录
+2、如果信息一致的，导出考勤记录看是否有多个钉钉号
+
+![image-20260407120227937](https://gitee.com/bytxrl/wiki-images/raw/master/image-20260407120227937.png)
+
+如果有多条记录的需要在[薪酬管理/考勤管理/出勤记录/不同钉钉号维护](http://121.28.192.238:8562/salary/attend/attendancerecordrest)对应月份进行维护
 
 ## 钉钉手机号修改
 
