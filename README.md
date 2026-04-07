@@ -16,7 +16,9 @@
 
 1、[薪酬管理/员工管理/员工档案](http://121.28.192.238:8562/salary/staff/staffmanagement)-详情查看员工钉钉手机号与钉钉号与[钉钉后台/成员管理](https://oa.dingtalk.com/contacts.htm#/contacts)对应信息是否一致，不一致的按照实际情况修改正确，详见[钉钉手机号修改](#钉钉手机号修改)
 
+![imge](https://gitee.com/bytxrl/wiki-images/raw/master/image-20260407102548768.png)
 
+![imge](https://gitee.com/bytxrl/wiki-images/raw/master/image-20260407102842384.png)
 
 2、如果信息一致的，那么查看[薪酬管理/考勤管理/出勤记录/不同钉钉号维护]([出勤记录](http://121.28.192.238:8562/salary/attend/attendancerecordrest))对应月份是否有多条记录
 
