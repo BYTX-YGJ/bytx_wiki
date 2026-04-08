@@ -36,7 +36,7 @@
 
 <font color="red">注意：对于有多个钉钉号的，此页面中员工现有钉钉号的创建时间要为最新的</font>
 
-![image-20260407180733581](https://gitee.com/bytxrl/wiki-images/raw/master/image-20260407180733581.png)
+![image-20260408115959179](https://gitee.com/bytxrl/wiki-images/raw/master/image-20260408115959179.png)
 
 ## 钉钉号修改
 
